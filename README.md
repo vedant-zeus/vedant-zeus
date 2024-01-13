@@ -1,6 +1,6 @@
 
-<h1 align="center">Hello 👋 there myself Vedant Amrutkar</h1>
-<h3 align="center">A young passionate developer from India</h3>
+<h1 align="center">Hello World👋 Myself Vedant Amrutkar</h1>
+<h3 align="center">A young passionate coding enthusiast who thrives on turning innovative ideas into code.</h3>
 <img align="right" alt="Coding" width="400" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif">
 
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **html5 , css3**
 
-- 💬 Ask me about **c , c++ , python**
+- 💬 Ask me about **C , C++ , Python**
 
 - 📫 How to reach me **vedant8405@gmail.com**
 
