@@ -1,5 +1,6 @@
 <h1 align="center">Hello 👋 there myself Vedant Amrutkar</h1>
 <h3 align="center">A young passionate developer from India</h3>
+<img align ="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdnl.iconscout.com%2Flottie%2Fpremium%2Fthumb%2Fmale-programmer-doing-coding-work-9560195-7793573.gif&tbnid=MCoB-YCAMSiBeM&vet=12ahUKEwie2-LjiNuDAxWComMGHd8GD4wQMygzegUIARCCAg..i&imgrefurl=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Ffreelancer-doing-web-coding&docid=_1v6wRvLD30QLM&w=375&h=338&q=animated%20coding%20image&ved=2ahUKEwie2-LjiNuDAxWComMGHd8GD4wQMygzegUIARCCAg">
 
 - 📫 How to reach me **vedant8405@gmail.com**
 
@@ -17,6 +18,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedant-zeus&show_icons=true&locale=en" alt="vedant-zeus" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedant-zeus&" alt="vedant-zeus" /></p>
-
-
-
