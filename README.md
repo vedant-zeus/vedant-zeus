@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedant-zeus&show_icons=true&locale=en" alt="vedant-zeus" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedant-zeus&" alt="vedant-zeus" /></p>
+
