@@ -1,6 +1,11 @@
 <h1 align="center">Hello 👋 there myself Vedant Amrutkar</h1>
 <h3 align="center">A young passionate developer from India</h3>
-<img align ="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdnl.iconscout.com%2Flottie%2Fpremium%2Fthumb%2Fmale-programmer-doing-coding-work-9560195-7793573.gif&tbnid=MCoB-YCAMSiBeM&vet=12ahUKEwie2-LjiNuDAxWComMGHd8GD4wQMygzegUIARCCAg..i&imgrefurl=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Ffreelancer-doing-web-coding&docid=_1v6wRvLD30QLM&w=375&h=338&q=animated%20coding%20image&ved=2ahUKEwie2-LjiNuDAxWComMGHd8GD4wQMygzegUIARCCAg">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant-zeus&label=Profile%20views&color=0e75b6&style=flat" alt="vedant-zeus" /> </p>
+
+- 🌱 I’m currently learning **html5 , css3**
+
+- 💬 Ask me about **c , c++ , python**
 
 - 📫 How to reach me **vedant8405@gmail.com**
 
@@ -8,6 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/vedant amrutkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedant amrutkar" height="30" width="40" /></a>
 <a href="https://instagram.com/vedant_a18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vedant_a18" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@vedant8405" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vedant8405" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
