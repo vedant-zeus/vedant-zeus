@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant-zeus&label=Profile%20views&color=0e75b6&style=flat" alt="vedant-zeus" /> </p>
 
-- 🌱 I’m currently learning **html5 , css3**
+- 💻 I’m currently learning **html5 , css3**
 
 - 💬 Ask me about **C , C++ , Python**
 
