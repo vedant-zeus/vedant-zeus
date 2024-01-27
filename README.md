@@ -1,11 +1,14 @@
-<h1 align="center">Hello 👋 there myself Vedant Amrutkar</h1>
-<h3 align="center">A young passionate developer from India</h3>
+
+<h1 align="center">Hello World👋 Myself Vedant Amrutkar</h1>
+<h3 align="center">A young passionate coding enthusiast who thrives on turning innovative ideas into code.</h3>
+<img align="right" alt="Coding" width="400" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant-zeus&label=Profile%20views&color=0e75b6&style=flat" alt="vedant-zeus" /> </p>
 
-- 🌱 I’m currently learning **html5 , css3**
+- 💻 I’m currently learning **html5 , css3**
 
-- 💬 Ask me about **c , c++ , python**
+- 💬 Ask me about **C , C++ , Python**
 
 - 📫 How to reach me **vedant8405@gmail.com**
 
@@ -21,6 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedant-zeus&show_icons=true&locale=en&layout=compact" alt="vedant-zeus" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedant-zeus&show_icons=true&locale=en" alt="vedant-zeus" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=vedant-zeus&show_icons=true&locale=en" alt="vedant-zeus" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedant-zeus&" alt="vedant-zeus" /></p>
+
