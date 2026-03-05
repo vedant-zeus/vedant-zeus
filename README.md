@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [vedantamrutkar.site](vedantamrutkar.site)
 
-- 💬 Ask me about **react.js , c++ , node.js**
+- 💬 Ask me about **react.js , c++ , node.js!**
 
 - 📫 How to reach me **vedant8405@gmail.com**
 
