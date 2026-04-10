@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Docker , Flask , CI/CD Pipelines , Python**
 
-- 👯 I’m looking to collaborate on [Law-GPT](https://github.com/vedant-zeus/LawGPT-begin.git)
+- 👯 I’m looking to collaborate on [Gym-Flow](https://github.com/vedant-zeus/GymFlow.git)
 
 - 👨‍💻 All of my projects are available at [vedantamrutkar.site](vedantamrutkar.site)
 
