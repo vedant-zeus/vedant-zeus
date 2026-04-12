@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vedant Sanjay Amrutkar  </h1>
+<h1 align="center">Hi 👋, I'm Vedant Sanjay Amrutkar !! </h1>
 <h3 align="center">I'm curious about how data can solve real-world problems. Since , I’ve built projects in AI, full-stack development, and data analysis. I love transforming ideas into reality through code and design.</h3>
 
 - 🔭 I’m currently working on [Virtual Chemistry Lab](https://github.com/vedant-zeus/Virtual_Chem_Laboratory.git)
