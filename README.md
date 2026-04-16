@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vedant Sanjay Amrutkar !! </h1>
+<h1 align="center">Hi 👋, I'm Vedant Sanjay Amrutkar  </h1>
 
 <h3 align="center">
 I'm curious about how data can solve real-world problems. 
