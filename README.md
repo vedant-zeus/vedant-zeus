@@ -81,5 +81,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vedant-zeus&layout=compact&theme=default&hide_border=true&title_color=0F6E56&text_color=444441&bg_color=00000000" height="160" alt="Top languages"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedant-zeus&hide_border=true&background=00000000&ring=1D9E75&fire=0F6E56&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff" alt="GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedant-zeus&hide_border=true&background=00000000&ring=1D9E75&fire=0F6E56&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff" alt="GitHub streak"/>
 </p>
