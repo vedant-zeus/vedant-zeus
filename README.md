@@ -4,7 +4,7 @@
 
 <p align="center">
   <em> Curious about how data solves real-world problems.<br/>
-  Building at the intersection of AI, full-stack development, and design.</em>
+  Building at the intersection of AI, full-stack development, and design. </em>
 </p>
 
 <p align="center">
